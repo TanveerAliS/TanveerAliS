@@ -5,7 +5,7 @@
     :sparkles: Favorite Tech: JavaScript, React, Go ... <br>
     :email:	tanveeralims@gmail.com <br>
     :briefcase: LinkedIn: https://www.linkedin.com/in/tanveeralims/ <br>
-                Twitter: https://twitter.com/TanveerAli_S?lang=en
+                Twitter: https://twitter.com/TanveerAli_S
   </samp>
 </p>
 
