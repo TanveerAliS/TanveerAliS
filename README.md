@@ -1,16 +1,12 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    Hi, I'm Tanveer! 👋 <br>
+    🔥 Engineering Team lead grinding hard to make something cool  <br>
+    :sparkles: Favorite Tech: JavaScript, React, Go ... <br>
+    :notebook: I’m currently learning DS and Algo... 😭  <br>
+    :email:	tanveeralims@gmail.com <br>
+    :briefcase: LinkedIn: https://www.linkedin.com/in/tanveeralims/ <br>
+                Twitter: https://twitter.com/TanveerAli_S?lang=en
+  </samp>
+</p>
 
-<!--
-**TanveerAliS/TanveerAliS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
