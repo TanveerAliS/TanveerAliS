@@ -1,4 +1,5 @@
-#### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">,  I'm Tanveer! 
+#### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
+#### I'm Tanveer
 
 I’m full stack deveveloper, always trying to learn something new and grow by utilising both logical and creative part of the brain. I’m proactive, confident and communicatively strong person always looking ahead in the future. Feel free to reach out in case you want to just get in touch also. 
 
