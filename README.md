@@ -1,7 +1,8 @@
 #### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 #### I'm Tanveer
 
-I’m full stack deveveloper, always trying to learn something new and grow by utilising both logical and creative part of the brain. I’m proactive, confident and communicatively strong person always looking ahead in the future. Feel free to reach out in case you want to just get in touch also. 
+I’m full-stack developer, always trying to learn something new and grow by utilizing both the logical and creative parts of the brain. I’m a proactive, confident, and communicatively strong person always looking ahead to the future. Feel free to reach out in case you want to just get in touch also.
+ 
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/tanveeralims/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/TanveerAli_S)
