@@ -1,13 +1,13 @@
 #### Hi<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">!
 #### I'm Tanveer
 
-I’m full-stack developer, always trying to learn something new and grow by utilizing both the logical and creative parts of the brain. I’m a proactive, confident, and communicatively strong person always looking ahead to the future. Feel free to reach out in case you want to just get in touch also.
+I’m full-stack developer, always trying to learn something new and grow by utilizing both the logical and creative parts of the brain. I’m a proactive, confident, and communicatively strong person, always looking ahead to the future. Feel free to reach out in case you want to just get in touch also.
 
-⚡ Currently Working as Engineering Team lead at Expertlead.
+⚡ Currently Working as Engineering Team lead at Expertlead.
 
-🔭 I’m currently working on ReactJS, Nodejs, go lanf and Eleastic search 
+🔭 I’m currently working on ReactJS, NodeJS, go Lang and Elastic search
 
-🧐 Learning about serverless architectures and distributed systems
+🧐 Learning about serverless architectures and distributed systems
 
 📙 Check out my <a href="https://github.com/TanveerAliS/TanveerAliS/blob/main/Tanveer_Sr_Software_Engineer_9Years.pdf">resume</a>.</li>
 
