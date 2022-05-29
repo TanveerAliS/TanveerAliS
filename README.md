@@ -9,7 +9,7 @@ I’m full-stack developer, always trying to learn something new and grow by uti
 
 🧐 Learning about serverless architectures and distributed systems
 
-📙 Check out my <a href="https://github.com/TanveerAliS/TanveerAliS/blob/main/Tanveer.pdf">resume</a>.</li>
+📙 Check out my <a href="https://github.com/TanveerAliS/TanveerAliS/blob/main/Tanveer_Sr_Software_Engineer_9Years.pdf">resume</a>.</li>
 
 
 <h2>🚀 Some Tools I Use</h2>
