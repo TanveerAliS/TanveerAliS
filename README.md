@@ -3,7 +3,7 @@
 
 I’m full-stack developer, always trying to learn something new and grow by utilizing both the logical and creative parts of the brain. I’m a proactive, confident, and communicatively strong person, always looking ahead to the future. Feel free to reach out in case you want to just get in touch also.
 
-⚡ Currently Working as Engineering Tech lead at Expertlead.
+⚡ Currently Working as Senior Software Engineer at Falconi.
 
 🔭 I’m currently working on ReactJS, NodeJS, go Lang and Elastic search
 
